@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/tyr1k/alertmanager/config"
+	"github.com/prometheus/alertmanager/config"
 	mock "github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 

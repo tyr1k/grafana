@@ -1,7 +1,7 @@
 package definitions
 
 import (
-	"github.com/tyr1k/alertmanager/config"
+	"github.com/prometheus/alertmanager/config"
 )
 
 // swagger:route GET /api/v1/provisioning/policies provisioning stable RouteGetPolicyTree
